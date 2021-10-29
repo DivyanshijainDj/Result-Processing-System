@@ -1,0 +1,162 @@
+as_id, dept_id, sub_code, sub_name, credit_t, credit_p, sem)
+
+('1', 1, 'BS-100C', 'Engineering Chemistry', 2 , 1 , 1),
+
+('1', 1, 'BS-100E', 'Communication Skills and Personality Development', 2, 1, 1),
+
+('1', 1, 'BS-111', 'Mathematics-I', 3 , 0 ,1 ),
+
+('1', 1, 'CE-115', 'Engineering Drawing', 0 , 1, 1 ),
+
+('1', 1, 'CS-100', 'Introduction to Computer Programming and Data Structures', 2 , 1 ,1 ),
+
+('1', 1, 'EC-100', 'Electronics and Communication', 2 , 1 , 1),
+
+('1', 1, 'ME-113', 'Mechanical Engineering-I', 3, 0 ,1 ),
+
+('1', 1, 'ME-114', 'Workshop Practice', 0 , 1 , 1 ),
+
+
+
+('1', 1, 'BS-100P', 'Engineering Physics', 2,1,2),
+
+('1', 1, 'BS-121', 'Mathematics-II', 3,0,2),
+
+('1', 1, 'CE-100', 'Engineering Mechanics', 2,1,2),
+
+('1', 1, 'CE-122', 'Civil Engineering', 1,1,2),
+
+('1', 1, 'EE-100', 'Electrical Engineering-I', 3,1,2),
+
+('1', 1, 'ME-123', 'Machine Drawing', 0,1,2),
+
+('1', 1, 'ME-124', 'Workshop Technology', 2,1,2),
+
+('1', 1, 'REE-100', 'Environmental Studies and Disaster Management', 2,0,2),
+
+
+
+('1', 1, 'BS - 211', 'Mathematics-III', 3,0,3),
+
+('1', 1, 'CS-211', 'Digital Logic Design', 3,1,3),
+
+('1', 1, 'CS-212', 'Unix and shell programming lab', 0,2,3),
+
+('1', 1, 'CS-213', 'Object oriented programming with C++', 3,2,3),
+
+('1', 1, 'CS-214', 'Principles of programming languages', 3,0,3),
+
+('1', 1, 'EC-219', 'Analog Electronics', 2,1,3),
+
+('1', 1, 'EE-212', 'Electrical Measurements and Instruments',3,1,3),
+
+
+
+('1', 1, 'BS-222', 'Discrete mathematical structure', 3,0,4),
+
+('1', 1, 'CS-221', 'Computer Organization', 3,0,4),
+
+('1', 1, 'CS-222', 'Data Structure', 3,1,4),
+
+('1', 1, 'CS-224', 'Microprocessors', 3,1,4),
+
+('1', 1, 'CS-225', 'System Software', 3,1,4),
+
+('1', 1, 'EC-228', 'Communication Systems', 3,0,4),
+
+
+
+('1', 1, 'CS-311', 'Theory of computation', 3,0,5),
+
+('1', 1, 'CS-312', 'Java Programming', 3,2,5),
+
+('1', 1, 'CS-313', 'Data communication and networks', 3,1,5),
+
+('1', 1, 'CS-314', 'Computer Architecture', 3,0,5),
+
+('1', 1, 'CS-315', 'Database Systems', 3,1,5),
+
+('1', 1, 'EC-319', 'Pulse, Digital and wave shaping', 3,0,5),
+
+
+
+('1', 1, 'CS-321', 'Principle of compiler design' , 3,1,6),
+
+('1', 1, 'CS-322' , 'Microprocessor interfacing and microcontroller' , 3,1,6),
+
+('1', 1, 'CS-323' , 'Design and analysis of algorithms' , 3,0,6),
+
+('1', 1, 'CS-324' , 'Computer networks' , 3,1,6),
+
+('1', 1, 'CS-325' , 'Operating Networks' , 3,1,6), 
+
+('1', 1, 'CS-326' , 'Software Engineering' , 3,1,6),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JUNIORS.................
+
+as_id, dept_id, sub_code, sub_name, credit_t, credit_p, sem)
+
+
+('2', 1, 'BS-111' , 'Mathematics -1' , 3,0,1),
+('2', 1, 'ME 112' , 'Mechanical Engineering' , 3,0,1),
+('2', 1, 'ME 113' , 'Workshop Practice' , 0,3,1),
+('2', 1, 'CE 114' , 'Engineering Drawing' , 0,3,1),
+('2', 1, 'BS 100P' , ' Engineering Physics' , 2,2,1),
+('2', 1, 'CE 100' , 'Engineering Mechanics' , 2,2,1), 
+('2', 1, 'EE 100' , 'Electrical Engineering' , 3,2,1),
+('2', 1, 'REE100' , 'Environmental Studies and Disaster Management' , 3,1,1),
+
+
+
+
+('2', 1, 'BS 121' , 'Mathematics -2' , 3,0,2),
+('2', 1, 'CE 122' , 'Civil Engineering' , 1,1,2),
+('2', 1, 'ME 123 ' , 'Mechanical Drawing ' , 0,1,2),
+('2', 1, 'ME 124' , 'Workshop technology' , 2,1,2),
+('2', 1, 'BS 100C' , 'chemistry' , 2,1,2),
+('2', 1, 'EC 100' , 'electronics' , 2,1,2),
+('2', 1, 'CS 100' , 'computer programming' , 0,3,2),
+('2', 1, 'BS100E' , 'communication skills' , 2,1,2),
+
+
+
+
+('2', 1, 'BS 231' , ' Mathematics –III ' , 3,0,3),
+('2', 1, 'BS 232 ' , 'Human Values' , 2,0,3),
+('2', 1, 'EE 232' , 'Electrical' , 2,1,3),
+('2', 1, 'EC 234 ' , 'Analog Electronics' , 2,1,3),
+('2', 1, 'CS 235' , 'Object Oriented programming' , 3,2,3),
+('2', 1, 'CS 236' , 'Digital Logic Design' , 3,2,3),
+('2', 1, 'CS 239' , 'Training –I' , 0,1,3),
+
+
+
+
+('2', 1, 'BS 242' , 'Discrete Mathematical' , 2,1,4),
+('2', 1, 'EC 243' , 'Communication systems' , 2,1,4),
+('2', 1, 'EC 244' , 'Pulse, digital and wave shaping' , 2,1,4),
+('2', 1, 'CS 245' , 'Data Structure' , 2,1,4),
+('2', 1, 'CS 246' , 'Computer Organization & Architecture ' , 2,1,4),
+('2', 1, 'CS 247' , 'Unix and Shell' , 2,1,4),
+('2', 1, 'CS 248' , 'Programming with Java' , 2,1,4);
+
+
+
+
+
+
+
