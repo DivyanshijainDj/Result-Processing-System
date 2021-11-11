@@ -4,6 +4,7 @@ Project that basically computes the SGPA &amp; OGPA of a student after entering 
 The query for computing and updating database from frontend is done by JDBC. 
 
 
+
 ## **JDBC**
 Refer https://jdbc.postgresql.org/documentation/documentation.html for details about JDBC.
 
