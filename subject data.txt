@@ -106,7 +106,7 @@ as_id, dept_id, sub_code, sub_name, credit_t, credit_p, sem)
 
 
 
-JUNIORS........
+JUNIORS......
 
 as_id, dept_id, sub_code, sub_name, credit_t, credit_p, sem)
 
