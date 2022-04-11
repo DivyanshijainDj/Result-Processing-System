@@ -10,4 +10,5 @@ Refer https://jdbc.postgresql.org/documentation/documentation.html for details a
 
 
 OUTPUT:
+
 ![rps](https://user-images.githubusercontent.com/54709490/162768600-eea597d6-f8b2-427d-9bd1-304915e80602.jpeg)
