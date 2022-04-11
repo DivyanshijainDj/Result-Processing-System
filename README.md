@@ -9,6 +9,7 @@ The query for computing and updating database from frontend is done by JDBC.
 Refer:
 
 https://jdbc.postgresql.org/documentation/documentation.html for details about JDBC.
+
 https://www.postgresql.org/docs/ for PostGresSQL database.
 
 ## **OUTPUT:**
